@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakshay2000](https://github.com/lakshay2000)
 
-- 💬 Ask me about **React,Flask,Django,Data science**
+- 💬 Ask me about **React ,Flask ,Django , Data science**
 
 - 📫 How to reach me **bangalakshay2000@gmail.com**
 
