@@ -24,3 +24,8 @@ If you are new to C++ and want to start from basics you may learn through some c
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshay2000&show_icons=true&locale=en&layout=compact" alt="lakshay2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay2000&" alt="lakshay2000" /></p>
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/73682174/136167152-d80c7137-f68d-4dd2-b317-4f846e8ba40d.gif)
+
+
