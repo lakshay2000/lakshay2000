@@ -26,9 +26,22 @@ If you are new to C++ and want to start from basics you may learn through some c
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay2000&" alt="lakshay2000" /></p>
 
 <br />
+<!-- 
+# Meet my Pet Monko:
 
-Meet my Pet Monko:
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/73682174/136167152-d80c7137-f68d-4dd2-b317-4f846e8ba40d.gif) -->
+<!-- 
+If u wanna discuss stuff then ping me on [Instagram](https://www.instagram.com/lakshay__banga) -->
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/73682174/136167152-d80c7137-f68d-4dd2-b317-4f846e8ba40d.gif)
+<br />
 
-If u wanna discuss stuff then ping me on [Instagram](https://www.instagram.com/lakshay__banga)
+<!-- # Connect with me:
+
+<a href="www.linkedin.com/in/lakshey-banga" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://instagram.com/lakshay__banga" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a> -->
+
+## 🔍  Where to find me
+
+[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=FE7A16" alt="Instagram logo" title="Instagram Overflow" height="25" />](https://instagram.com/lakshay__banga)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/lakshey-banga)
