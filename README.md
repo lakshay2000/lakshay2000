@@ -6,10 +6,8 @@
 - 🌱 I’m currently learning **Machine Learning Algos**
 
 
+If you are new to C++ and want to start from basics you may learn through some codes I made for basic Understanding of C++ [@Start_With_C++](https://github.com/lakshay2000/C-Program)
 
-[<img align="left" alt="Lakshey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][www.linkedin.com/in/lakshey-banga]
-[<img align="left" alt="Lakshey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Lakshey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
