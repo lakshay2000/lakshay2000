@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lakshey Banga</h1>
-<h3 align="center">A passionate from India</h3>
+<h1 align="center">A passionate Learner</h1>
 
 - 🔭 I’m currently working on **Flask**
 
 - 🌱 I’m currently learning **Machine Learning Algos**
 
 
-If you are new to C++ and want to start from basics you may learn through some codes I made for basic Understanding of C++ [@Start_With_C++](https://github.com/lakshay2000/C-Program)
+## If you are new to C++ and want to start from basics you may learn through some codes I made for basic Understanding of C++ [@Start_With_C++](https://github.com/lakshay2000/C-Program)
 
 
 <br />
