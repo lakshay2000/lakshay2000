@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshey Banga</h1>
-<h1 align="center">A passionate Learner</h1>
+<h2 align="center">A passionate Learner</h2>
 
 - 🔭 I’m currently working on **Flask**
 
